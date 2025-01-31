@@ -1,4 +1,3 @@
-```markdown
 # Samuel e o AirBus A380
 
 ## 📒 Descrição
@@ -21,4 +20,3 @@ O vídeo pode ser visto no link: https://www.canva.com/design/DAGdtv-mN04/ydKJP7
 
 ## 💭 Reflexão (Opcional)
 Foi bem desafiador, e um grande aprendizado integrar todas as ferramentas.
-```
